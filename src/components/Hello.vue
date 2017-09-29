@@ -49,7 +49,7 @@ export default {
     overflow: hidden;
     width: 100%;
     height: 100%;
-    background: url('http://admin.qa.asiacommerce.net/assets/images/backgrounds/march.jpg'), no-repeat;
+    background: url('https://cdn.pixabay.com/photo/2017/09/07/17/27/background-2726039_960_720.png'), no-repeat;
     background-size: cover;
   }
   .admin-login {
